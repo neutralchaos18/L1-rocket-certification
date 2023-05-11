@@ -1,3 +1,7 @@
 # LaTeX ignores
 *.PDF
 *.gz
+
+# Solidworks ignores
+*.PDF
+*.SLDDRW
